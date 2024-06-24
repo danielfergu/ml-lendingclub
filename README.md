@@ -17,9 +17,9 @@ George, N. (2018). All Lending Club loan data (Version 3.0) [Data set]. Kaggle. 
 
 ## Methodology
 
-Data Cleaning: Address missing values and inconsistencies.
-Exploratory Data Analysis (EDA): Uncover patterns and inform feature selection.
-Model Evaluation: Compare and select the best-performing model based on accuracy and robustness.
+- Data Cleaning: Address missing values and inconsistencies.
+- Exploratory Data Analysis (EDA): Uncover patterns and inform feature selection.
+- Model Evaluation: Compare and select the best-performing model based on accuracy and robustness.
 
 ## Conclusion
 
