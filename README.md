@@ -34,6 +34,8 @@ Open the Jupyter notebook and run the cells to reproduce the analysis and result
 ## Files
 
 Notebook.ipynb: Jupyter notebook containing the full analysis and code.
+dataset/reducer.py: Script to reduce the Kaggle dataset by half for easier use in a Jupyter Notebook.
+dataset/download_reduced.py: Script to directly download the reduced dataset.
 
 ## Feedback
 
